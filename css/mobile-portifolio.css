@@ -367,10 +367,21 @@ button.linkedin, .whatsapp, .email,
 h1.loja {
   font-weight: 500;
 }
+.clear{
+  clear: both;
 
+}
+.back{
+  width: 100%;
+  height: 30px;
+  background-color: blue;
+}
 .fim {
+ 
+ padding-top: 40px;
   display: flex;
 }
+
 
 .fim span {
   color: aquamarine;
